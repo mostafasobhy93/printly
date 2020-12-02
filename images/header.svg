@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 1920 208" version="1.1" viewBox="0 0 1920 208" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	.st0{clip-path:url(#h);}
+	.st1{clip-path:url(#f);}
+	.st2{clip-path:url(#d);}
+	.st3{opacity:0.7;fill:#f1f1f1;enable-background:new    ;}
+	.st4{fill:url(#m);}
+	.st5{filter:url(#o);}
+	.st6{fill:url(#n);}
+	.st7{clip-path:url(#b);}
+	.st8{clip-path:url(#k);}
+	.st9{fill:url(#l);}
+	.st10{fill:url(#j);}
+</style>
+<filter id="o" x="-23" y="-10" width="1744.3" height="227.26" filterUnits="userSpaceOnUse">
+	<feOffset dx="-5" dy="8" input="SourceAlpha"/>
+	<feGaussianBlur result="blur" stdDeviation="6"/>
+	<feFlood flood-opacity=".129"/>
+	<feComposite in2="blur" operator="in"/>
+	<feComposite in="SourceGraphic"/>
+</filter>
+	<defs>
+		<rect id="i" width="1920" height="208"/>
+	</defs>
+	<clipPath id="h">
+		<use xlink:href="#i"/>
+	</clipPath>
+	<g class="st0">
+				<defs>
+					<polygon id="g" points="1920 0 1920 151 1549.1 190.1 0 120.5 0 206.7 1920 206.7"/>
+				</defs>
+				<clipPath id="f">
+					<use xlink:href="#g"/>
+				</clipPath>
+				<g class="st1">
+					<defs>
+						<rect id="e" y="-1.3" width="1920" height="208"/>
+					</defs>
+					<clipPath id="d">
+						<use xlink:href="#e"/>
+					</clipPath>
+					<g class="st2">
+							<path class="st3" d="M1709.7-3.5l-160.6,193.6l899.5-94.7V-1.2L1709.7-3.5z"/>
+								<linearGradient id="m" x1="538.9" x2="539.13" y1="400.75" y2="400.77" gradientTransform="matrix(1708.3 0 0 -191.26 -9.2022e5 76745)" gradientUnits="userSpaceOnUse">
+								<stop stop-color="#fff" offset="0"/>
+								<stop stop-color="#fff" stop-opacity=".745" offset="1"/>
+							</linearGradient>
+							<path class="st4" d="M0-1.2v121.7l1549.1,69.6L1708.3-1.2H0z"/>
+							<g class="st5">
+									<linearGradient id="n" x1="538.94" x2="539.84" y1="401.07" y2="400.66" gradientTransform="matrix(1708.3 0 0 -191.26 -9.2022e5 76745)" gradientUnits="userSpaceOnUse">
+									<stop stop-color="#fff" stop-opacity="0" offset="0"/>
+									<stop stop-color="#fff" stop-opacity=".439" offset=".456"/>
+									<stop stop-color="#fff" stop-opacity="0" offset="1"/>
+								</linearGradient>
+								<path class="st6" d="M0-1.3v121.7L1549.1,190L1708.3-1.3H0z"/>
+							</g>
+					</g>
+				</g>
+			<defs>
+				<polygon id="c" points="1549.1 190.1 1920 151 1920 -3.5 1709.6 -3.5 0 -3.5 0 120.5"/>
+			</defs>
+			<clipPath id="b">
+				<use xlink:href="#c"/>
+			</clipPath>
+			<g class="st7">
+					<defs>
+						<rect id="a" y="-3.5" width="1920" height="279.1"/>
+					</defs>
+					<clipPath id="k">
+						<use xlink:href="#a"/>
+					</clipPath>
+					<g class="st8">
+						<path class="st3" d="M1709.6-3.5L1549,190.1l899.5-94.7V-3.5H1709.6z"/>
+							<linearGradient id="l" x1="538.9" x2="539.13" y1="-641.48" y2="-641.5" gradientTransform="matrix(1708.3 0 0 191.26 -9.2022e5 1.2279e5)" gradientUnits="userSpaceOnUse">
+							<stop stop-color="#fff" offset="0"/>
+							<stop stop-color="#fff" stop-opacity=".745" offset="1"/>
+						</linearGradient>
+						<path class="st9" d="M0-3.5v124l1549.1,69.6L1709.6-3.5H0z"/>
+							<radialGradient id="j" cx="819.35" cy="-1457.6" r="1181.5" gradientTransform="matrix(.999 .045271 .005324 -.1175 -.5075 -169.09)" gradientUnits="userSpaceOnUse">
+							<stop stop-color="#fff" stop-opacity=".5" offset=".00049877"/>
+							<stop stop-color="#F4F4F4" stop-opacity=".4679" offset=".064619"/>
+							<stop stop-color="#C2C2C2" stop-opacity=".3142" offset=".3719"/>
+							<stop stop-color="#9E9E9E" stop-opacity=".1795" offset=".6412"/>
+							<stop stop-color="#888" stop-opacity=".070192" offset=".8597"/>
+							<stop stop-color="#808080" stop-opacity="0" offset="1"/>
+						</radialGradient>
+						<polygon class="st10" points="1586.4 266.3 0 206.5 0 120.5 1549.1 190.1"/>
+					</g>
+			</g>
+	</g>
+</svg>

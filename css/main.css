@@ -1,0 +1,61 @@
+.scroll-down-button {
+  position: absolute;
+  left: 50%;
+  text-align: center;
+  -ms-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  bottom: 60px;
+  z-index: 50;
+  cursor: pointer;
+  text-align: center;
+  width: 30px;
+}
+.scroll-down-button img {
+  display: block !important;
+  top: 0;
+  left: 0;
+}
+.scroll-down-button .down-button {
+  z-index: 2;
+  position: relative;
+}
+.scroll-down-button .icon-arrow_down {
+  -webkit-animation: animationButto ease-in-out 0.9s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transform-origin: 50% 50%;
+  position: absolute;
+  left: 0;
+  bottom: -22px;
+  display: block;
+  width: 100%;
+  color: #ffffff;
+  font-size: 30px;
+}
+.scroll-down-button .icon-arrow_down:before {
+  color: #ffffff;
+}
+@-webkit-keyframes animationButto {
+  0% {
+    transform: translateY(50%);
+  }
+  50% {
+    transform: translateY(0%);
+  }
+  100% {
+    transform: translateY(50%);
+  }
+}
+
+@media (max-width: 767px) {
+  .scroll-down-button {
+    bottom: 40px;
+    width: 20px;
+  }
+  .scroll-down-button .icon-arrow_down {
+    font-size: 18px;
+    left: 0px;
+   bottom: -18px;
+  }
+}
